@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x82aB67C0805F0eee708007582978D1Fb15688005",
+  "SCAN_LINK": "https://nova.subspace.network/token/0x82aB67C0805F0eee708007582978D1Fb15688005",
+  "NETWORK": {
+    "NAME": "Gemini 3h Nova",
+    "SYMBOL": "TSSC",
+    "ID": 490000
+  },
+  "NFT_NAME": "HappyMonkey",
+  "SYMBOL": "HM",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
